@@ -1,2 +1,2 @@
 # command
-Hello Teacher. Here is my homework.
+command Hello Teacher. Here is my homework.
